@@ -45,7 +45,7 @@
     </form>
 
     <script>
-    alert('whoah! whats that? you seem to have received an sms from checkers! you read a brief promo special they got going on...you copy the *3455* redeemable code and click the url link in  sms.....and so, here you are!');
+    alert('whoah! whats that? you seem to have received an sms from checkers! you read a brief promo special they got going on...you copy the *3455* redeemable code and click the url link inside the sms.....and so, here you are!');
     
     </script>
 
